@@ -3,8 +3,8 @@ Key Words: Predictive Modeling, Python
 
 Here We have energy usage data for a set of customers. The data are a panel of invoices over a period of 2 years for a set of customers. The description of the variables are shown as below:
 
-'Customer_id': Unique customer identifier
-'Invoicefromdt': Start date of bill period
+'Customer_id': Unique customer identifier\\
+'Invoicefromdt': Start date of bill period\\
 'Invoicetodt': End date of bill period
 'Invoicedate': Date of invoice
 'Kwh': Energy usage in kWh
